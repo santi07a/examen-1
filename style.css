@@ -1,0 +1,19 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.cabecera {
+	background-color: #555555;
+}
+h1, h2 {
+	color: white;
+}
+
+main {
+	background-color: #333333;
+}
+
+.lista-imagenes {
+	background-color: #cccccc;
+}
