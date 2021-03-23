@@ -17,3 +17,6 @@ main {
 .lista-imagenes {
 	background-color: #cccccc;
 }
+body {
+	margin-top: 0;
+}
